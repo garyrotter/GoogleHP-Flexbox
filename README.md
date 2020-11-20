@@ -1,1 +1,1 @@
-Going to make a copy of the Google homepage.
+Going to make a copy of the Google homepage using Flexbox.
